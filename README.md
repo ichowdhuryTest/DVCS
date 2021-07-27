@@ -1,3 +1,3 @@
 # DVCS
 dvcs integration
-commit -m DVCSGIT-10
+commit -m "DVCSGIT-10"
